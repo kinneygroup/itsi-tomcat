@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for Tomcat from Kinney Group is specifically designed to monitor system health related to Apache Tomcat. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Tomcat, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Tomcat servers.
+The ITSI Content Pack for Tomcat from Presidio Splunk Solutions is specifically designed to monitor system health related to Apache Tomcat. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Tomcat, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Tomcat servers.
 
 * Comprehensive Performance Monitoring: Offers detailed insights into Tomcat server performance, JVM metrics, and resource utilization, enabling optimized resource management.
 * Critical System Status Tracking: Monitors the real-time operational status of Tomcat applications and services, helping IT professionals swiftly identify and address potential issues.
@@ -7,14 +7,14 @@ The ITSI Content Pack for Tomcat from Kinney Group is specifically designed to m
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ## Details
 The ITSI Content Pack for Tomcat contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive monitoring solution for Tomcat servers, ensuring optimal performance and reliability.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ### Services
 Tomcat monitoring encompasses several specialized services, each targeting specific aspects of server performance:
@@ -91,26 +91,27 @@ Some services form a hierarchy, such as JVM Performance depending on Heap Memory
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ## Version History
 
 | Version | Date  | Description                |
 |---------|-------|----------------------------|
 | 0.0.1   | 6/4/24 | Initial Preview Release    |
+| 1.0.0   | 5/16/25 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
